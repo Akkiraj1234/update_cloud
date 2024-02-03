@@ -1,1 +1,11 @@
-{"update": false, "update_has_to_done": false, "update_has_to_done_list": ["000123", "000124"], "inisial_screen_message": "hello this is akki", "update_date": "", "update_releses": ""}
+{
+    "update": true,
+    "update_has_to_done": true,
+    "update_has_to_done_list": [
+        "000123",
+        "000124"
+    ],
+    "inisial_screen_message": "hello this is akki and code has worked wowo",
+    "update_date": "",
+    "update_releses": "03-02-2024"
+}
