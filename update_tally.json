@@ -1,10 +1,11 @@
 {
-    "version": "01.3",
+    "version": "01.45",
     "update_has_to_done_list": [
         "000123",
-        "000124"
+        "000124",
+        "677777"
     ],
-    "inisial_screen_message": "hello this is akki\n nice to meet you all and this is test message syonara",
+    "inisial_screen_message": "hello this is akki\n nice to meet you all and this is test message syonara and this is for testing ",
     "update_date": "",
-    "update_releses": "03-02-2024"
+    "update_releses": "04-02-2024"
 }
